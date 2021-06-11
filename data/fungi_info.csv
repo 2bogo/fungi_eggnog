@@ -1,61 +1,61 @@
 ﻿species,phylum,fruitBody
-Tetrapisispora blattae , ascomycota(yeast),x
-Tetrapisispora phaffii , ascomycota(yeast),x
-Naumovozyma castellii , ascomycota(yeast),x
-Naumovozyma dairenensis , ascomycota(yeast),x
-Kluyveromyces lactis , ascomycota(yeast),x
-Eremothecium gossypii , ascomycota(yeast),x
-Vanderwaltozyma polyspora , ascomycota,x
-Lachancea thermotolerans , ascomycota(yeast),x
-Kazachstania africana , ascomycota(yeast),x
-Eremothecium cymbalariae , ascomycota,x
-Saccharomyces cerevisiae , ascomycota,x
-Torulaspora delbrueckii , ascomycota(yeast),x
-Zygosaccharomyces rouxii , ascomycota(yeast),x
-[Candida] glabrata , ascomycota(yeast),x
-Kazachstania naganishii , ascomycota(yeast),x
-Ogataea parapolymorpha , ascomycota,x
-Fusarium pseudograminearum , ascomycota,x
-Bipolaris oryzae , ascomycota,x
-Glarea lozoyensis , ascomycota,x
-Wickerhamomyces ciferrii , ascomycota,x
-Gloeophyllum trabeum , basidiomycota,o
-Zymoseptoria tritici , ascomycota,o
-Paracoccidioides lutzii , ascomycota,x
-Verticillium alfalfa , ascomycota,x
-Spizellomyces punctatus , Chytridiomycota,x
-Batrachochytrium dendrobatidis , Chytridiomycota,x
-Penicillium rubens , ascomycota,x
-Fusarium verticillioides , ascomycota,x
-Colletotrichum sublineola , ascomycota,x
-Cladophialophora psammophila , ascomycota,x
-Ustilago hordei , basidiomycota,x
-Paracoccidioides brasiliensis , ascomycota,x
-Parastagonospora nodorum , ascomycota,x
-Kalmanozyma brasiliensis , basidiomycota,x
-Magnaporthiopsis poae , ascomycota,x
-Wallemia sebi , basidiomycota,x
-Auricularia delicata , basidiomycota,o
-Aspergillus nidulans , ascomycota,x
-Beauveria bassiana , ascomycota,x
-Coccidioides posadasii , ascomycota,x
-Punctularia strigosozonata , basidiomycota,o
-Melampsora larici-populina , basidiomycota,x
-Fomitiporia mediterranea , basidiomycota,o
-Chaetomium thermophilum , ascomycota,x
-Moniliophthora roreri , basidiomycota,o
-Phaeoacremonium minimum , ascomycota,x
-Grosmannia clavigera ,ascomycota,x
-Wallemia ichthyophaga ,basidiomycota,x
-Pneumocystis murina ,ascomycota,x
-Byssochlamys spectabilis , ascomycota,x
-Verticillium dahlia , ascomycota,x
-Candida orthopsilosis ,ascomycota,x
-Talaromyces stipitatus , ascomycota,x
-Allomyces macrogynus , blastocladiomycota,x
-Cyphellophora europaea ,ascomycota,x
-Gaeumannomyces graminis , ascomycota,x
-Trichoderma virens , ascomycota,o
+Tetrapisispora blattae, ascomycota(yeast),x
+Tetrapisispora phaffii, ascomycota(yeast),x
+Naumovozyma castellii, ascomycota(yeast),x
+Naumovozyma dairenensis, ascomycota(yeast),x
+Kluyveromyces lactis, ascomycota(yeast),x
+Eremothecium gossypii, ascomycota(yeast),x
+Vanderwaltozyma polyspora, ascomycota,x
+Lachancea thermotolerans, ascomycota(yeast),x
+Kazachstania africana, ascomycota(yeast),x
+Eremothecium cymbalariae, ascomycota,x
+Saccharomyces cerevisiae, ascomycota,x
+Torulaspora delbrueckii, ascomycota(yeast),x
+Zygosaccharomyces rouxii, ascomycota(yeast),x
+[Candida] glabrata, ascomycota(yeast),x
+Kazachstania naganishii, ascomycota(yeast),x
+Ogataea parapolymorpha, ascomycota,x
+Fusarium pseudograminearum, ascomycota,x
+Bipolaris oryzae, ascomycota,x
+Glarea lozoyensis, ascomycota,x
+Wickerhamomyces ciferrii, ascomycota,x
+Gloeophyllum trabeum, basidiomycota,o
+Zymoseptoria tritici, ascomycota,x
+Paracoccidioides lutzii, ascomycota,x
+Verticillium alfalfae, ascomycota,x
+Spizellomyces punctatus, Chytridiomycota,x
+Batrachochytrium dendrobatidis, Chytridiomycota,x
+Penicillium rubens, ascomycota,x
+Fusarium verticillioides, ascomycota,x
+Colletotrichum sublineola, ascomycota,x
+Cladophialophora psammophila, ascomycota,x
+Ustilago hordei, basidiomycota,x
+Paracoccidioides brasiliensis, ascomycota,x
+Parastagonospora nodorum, ascomycota,x
+Kalmanozyma brasiliensis, basidiomycota,x
+Magnaporthiopsis poae, ascomycota,x
+Wallemia sebi, basidiomycota,x
+Auricularia delicata, basidiomycota,o
+Aspergillus nidulans, ascomycota,x
+Beauveria bassiana, ascomycota,x
+Coccidioides posadasii, ascomycota,x
+Punctularia strigosozonata, basidiomycota,o
+Melampsora larici-populina, basidiomycota,x
+Fomitiporia mediterranea, basidiomycota,o
+Chaetomium thermophilum, ascomycota,x
+Moniliophthora roreri, basidiomycota,o
+Phaeoacremonium minimum, ascomycota,x
+Grosmannia clavigera,ascomycota,x
+Wallemia ichthyophaga,basidiomycota,x
+Pneumocystis murina,ascomycota,x
+Byssochlamys spectabilis, ascomycota,x
+Verticillium dahliae, ascomycota,x
+Candida orthopsilosis,ascomycota,x
+Talaromyces stipitatus, ascomycota,x
+Allomyces macrogynus, blastocladiomycota,x
+Cyphellophora europaea,ascomycota,x
+Gaeumannomyces graminis, ascomycota,x
+Trichoderma virens, ascomycota,o
 Sporothrix schenckii, ascomycota ,x
 Neofusicoccum parvum, ascomycota ,x
 Colletotrichum graminicola, ascomycota ,x
@@ -78,7 +78,7 @@ Chaetomium globosum, ascomycota ,x
 Pestalotiopsis fici, ascomycota ,x
 Tuber melanosporum, ascomycota ,x
 Neurospora tetrasperma, ascomycota ,x
-Fomitopsis pinicola, basidiomycota,x
+Fomitopsis pinicola, basidiomycota,o
 Stereum hirsutum, basidiomycota,o
 Botrytis cinerea, ascomycota ,x
 Pneumocystis jirovecii, ascomycota ,x
@@ -112,7 +112,7 @@ Aspergillus flavus, ascomycota ,x
 Aspergillus niger, ascomycota ,x
 Aspergillus oryzae, ascomycota ,x
 Claviceps purpurea, ascomycota ,x
- Fusarium fujikuroi, ascomycota ,x
+Fusarium fujikuroi, ascomycota ,x
 Neurospora crassa, ascomycota ,x
 Trichoderma reesei, ascomycota,x
 Sordaria macrospora, ascomycota,x
